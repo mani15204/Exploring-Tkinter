@@ -29,3 +29,8 @@ print(help(Frame))
 import tkinter
 print(dir(tkinter))
 ```
+
+# Contents
+1. Empty GUI <br><br>
+![image](https://github.com/mani15204/Exploring-Tkinter/assets/118109217/5d43f1a7-686f-4e7e-87e4-bcf02141c122)
+
