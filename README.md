@@ -23,3 +23,9 @@ print(help(tkinter))
 from tkinter import Frame
 print(help(Frame))
 ```
+
+<br>Now you may ask, "I don't even know till date that something called *Frames* is present under Tkinter". How will I even get to know all such things. Then you do this.
+```
+import tkinter
+print(dir(tkinter))
+```
