@@ -34,4 +34,7 @@ print(dir(tkinter))
 1. Empty GUI <br><br>
 ![image](https://github.com/mani15204/Exploring-Tkinter/assets/118109217/cc1bd026-49b6-4e59-a3cb-6a010d6be2b7)
 
+2. Hello World <br><br>
+![image](https://github.com/mani15204/Exploring-Tkinter/assets/118109217/d78ef78a-4ebb-49e4-a910-c8cb49fcb62b)
+
 
