@@ -18,5 +18,7 @@ from tkinter.constants import *
 
 # Building an empty GUI
 root = Tk()
-root.title("GUI title")
+root.title("Title")  # Giving a title to the GUI in window title bar
+root.geometry("500x500") # Setting window length and width
+root.config(bg='lightblue', cursor='pirate') # Just having fun with some crazy configuration possible
 root.mainloop()
